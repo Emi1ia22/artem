@@ -25,7 +25,7 @@ main {
  }
 
 footer{
-    background-color: #5CBDE6;
+    background-color: #008616;
 }
 .footer-columns {
     display: flex;
@@ -82,7 +82,7 @@ footer{
    text-transform: uppercase;
    height: 36px;
    box-sizing: border-box;
-   color: white;
+   color: rgb(0, 0, 0);
 }
 
 #menu1 ul li ul{
@@ -91,7 +91,7 @@ footer{
    left: 0px;
    display: none;
    width: 200px;
-   background: #38b6ff;
+   background: #005c05;
 }
 
 #menu1 ul li:hover ul{
@@ -110,8 +110,8 @@ footer{
    padding: 7px 25px;
    width: 100%;
    box-sizing: border-box;
-   border-top: 1px solid #ffffff;
-   color: white;
+   border-top: 1px solid #9b1a1a;
+   color: rgb(7, 119, 184);
 }
 
 #menu1 ul li ul li:first-child a{
